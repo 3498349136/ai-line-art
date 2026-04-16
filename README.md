@@ -24,7 +24,7 @@
 | ![人物原图](https://img.sipingseo.com/file/online-line-art-extraction/fSJE6g5b.webp) | ![人物线稿](https://img.sipingseo.com/file/online-line-art-extraction/njxUH6vc.webp) |
 
 ### 2. 建筑景观结构提取
-精准还原透视关系与空间结构，为建筑设计提供即时参考。
+精准还原透视关系与空间结构，为建筑设计提供即时参考
 | 原图 | AI 提取线稿 |
 | :--- | :--- |
 | ![建筑原图](https://img.sipingseo.com/file/online-line-art-extraction/jcRXUraI.webp) | ![建筑线稿](https://img.sipingseo.com/file/online-line-art-extraction/NN2z6zpx.webp) |
