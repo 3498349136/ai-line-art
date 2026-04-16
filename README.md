@@ -30,7 +30,7 @@
 | ![建筑原图](https://img.sipingseo.com/file/online-line-art-extraction/jcRXUraI.webp) | ![建筑线稿](https://img.sipingseo.com/file/online-line-art-extraction/NN2z6zpx.webp) |
 
 ### 3. 动漫角色风格化
-完美保留二次元角色的动态线条与表情特征。
+完美保留二次元角色的动态线条与表情特征
 | 原图 | AI 提取线稿 |
 | :--- | :--- |
 | ![动漫原图](https://img.sipingseo.com/file/online-line-art-extraction/qX3LmgIb.webp) | ![动漫线稿](https://img.sipingseo.com/file/online-line-art-extraction/VNPHPKkQ.webp) |
