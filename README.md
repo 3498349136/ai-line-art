@@ -18,7 +18,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 人物肖像精细线稿
-智能提取五官轮廓与发丝细节，非常适合绘画临摹与上色
+智能提取五官轮廓与发丝细节，非常适合绘画临摹与上色 。
 | 原图 | AI 提取线稿 |
 | :--- | :--- |
 | ![人物原图](https://img.sipingseo.com/file/online-line-art-extraction/fSJE6g5b.webp) | ![人物线稿](https://img.sipingseo.com/file/online-line-art-extraction/njxUH6vc.webp) |
