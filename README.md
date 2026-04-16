@@ -5,7 +5,7 @@
 [![Category](https://img.shields.io/badge/Category-AI%20Image%20Tool-blue)](#)
 [![License](https://img.shields.io/badge/License-Free-green)](#)
 
-[SPAI 线稿助理](https://www.sipingseo.com/zh/line-art-extract/online-line-art-extraction) 是一款基于深度学习技术的 AI 在线线稿提取工具。它能够智能识别图片中的物体轮廓、结构线条与细节，实现一键式的高精度线稿生成。无论您是绘画爱好者、设计师还是建筑师，都能通过本工具快速获取干净、专业、可用于二次创作的线条图
+[SPAI 线稿助理](https://www.sipingseo.com/zh/line-art-extract/online-line-art-extraction) 是一款基于深度学习技术的 AI 在线线稿提取工具。它能够智能识别图片中的物体轮廓、结构线条与细节，实现一键式的高精度线稿生成。无论您是绘画爱好者、设计师还是建筑师，都能通过本工具快速获取干净、专业、可用于二次创作的线条图 。
 
 ## 🌟 核心优势
 
